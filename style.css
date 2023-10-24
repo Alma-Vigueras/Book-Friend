@@ -1,0 +1,48 @@
+/* soy un comentario*/
+body{
+    /* background-color: #2f737a; color de fondo */
+    background-image: url(images/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #023047; /*color de txt*/
+    /*font-family: 'Josefin Sans', sans-serif;*/
+}
+
+h1{
+    color: #284b63;
+    text-align: center;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 55px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    border-width: 15px;
+}
+
+main .lista-libros{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(206, 197, 197);
+    margin-bottom: 10%;
+    /* justify-content: space-between;  */
+    align-items: center;
+    /* margin-inline: 40%; */
+    /* display: flex;
+    flex-direction: row; */
+    border-radius: 100px;
+    border-width: 20px;
+    border-color: #023047;
+    
+}
+
+img{
+    width: 300px; /* andcho*/
+    /*height: ; alto*/
+}
+
+.real-books{
+    height: 500px;
+    border-radius: 2%;
+}
